@@ -13,5 +13,4 @@ This project allows you to quickly generate a basic Chrome extension structure u
 ## 🚀 How to Use
 
 1. Run the Python script:
-   ```bash
-   python assets/run.py
+   - Run.bat
